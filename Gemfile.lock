@@ -1,0 +1,20 @@
+GIT
+  remote: git://github.com/tibastral/web_motion.git
+  revision: 8c42994d077976ffcb77e01650e6cf3cb2caed41
+  specs:
+    web_motion (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (11.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rake
+  web_motion!
+
+BUNDLED WITH
+   1.13.2
